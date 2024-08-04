@@ -3,7 +3,7 @@
 
 A nicely integrated local spell checker for Alfred.
 
-To use Spel, select some text and choose 'Spell Check Selection' from Alfreds [Universal Actions](https://www.alfredapp.com/help/features/universal-actions/) menu. A list of replacements is shown for each misspelt word. If you want to skip a word, the up arrow key will take you to the bottom of the list, revealing the 'Skip Word' option. When finished, 'Done' will replace the selected text with the corrected text. 
+To use Spel, select some text and choose 'Spell Check Selection' from Alfred's [Universal Actions](https://www.alfredapp.com/help/features/universal-actions/) menu. A list of replacements is shown for each misspelt word. If you want to skip a word, the up arrow key will take you to the bottom of the list, revealing the 'Skip Word' option. When finished, 'Done' will replace the selected text with the corrected text. 
 
 Alternatively, holding the option key when first running Spel will _automatically_ replace each word with its 'top hit'. Use this with caution though. 
 
