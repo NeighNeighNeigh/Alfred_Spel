@@ -9,7 +9,7 @@ Alternatively, when invoking Spel from the Universal Actions menu, you can hold 
 
 
 ## Select text
-<img width="708" alt="SCR-20240804-ksas" src="https://github.com/user-attachments/assets/dc7ffd9f-5ab4-458f-b66f-7f6a28c6ac62">
+<img width="752" alt="SCR-20240804-kzor" src="https://github.com/user-attachments/assets/9b3d8e57-601d-4464-bd0e-def825d02f17">
 
 ## Choose 'Spell Check Selection' from the [Universal Actions](https://www.alfredapp.com/help/features/universal-actions/) menu
 <img width="853" alt="SCR-20240804-ksln" src="https://github.com/user-attachments/assets/85059088-bd62-4f74-9c5a-92b1a99b66a7">
