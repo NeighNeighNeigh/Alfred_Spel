@@ -25,7 +25,7 @@ Here is a short guide with screenshots:
 ## Skip words by pressing up arrow and selecting the 'Skip Word' option
 <img width="853" alt="SCR-20240804-kspg" src="https://github.com/user-attachments/assets/a79d7be1-d8c9-46f3-af58-5982509f1281">
 
-## Selecting 'Done' will replace the selection with the corrected text.
+## Selecting 'Done' will replace the selection with the corrected text
 <img width="853" alt="SCR-20240804-ksqk" src="https://github.com/user-attachments/assets/78ab97dd-56df-46c0-b059-1ebf14a1862a">
 
 
