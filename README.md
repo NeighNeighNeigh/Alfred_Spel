@@ -1,12 +1,17 @@
 # Spel
 <img width="128" alt="5DC88347-DD5E-4173-93CE-44E377100A1E" src="https://github.com/user-attachments/assets/ba1b6eda-51a9-44bb-b636-87de2e58b652">
 
-A nicely integrated spell checker for Alfred
+A nicely integrated local spell checker for Alfred
 
-To use Spel, select some text and choose 'Spell Check Selection' from Alfreds [Universal Actions](https://www.alfredapp.com/help/features/universal-actions/) menu. For each missppelt word, Spel will show a list of replacements. If you want to skip a word, pressing the up arrow key will take you to the bottom of the word list, where there is a skip word option. When you have gotten through all words, selecting done will replace the selection with your corrected content. 
+To use Spel, select some text and choose 'Spell Check Selection' from Alfreds [Universal Actions](https://www.alfredapp.com/help/features/universal-actions/) menu. A list of replacements is shown for each misspelt word. If you want to skip a word, the up arrow key will take you to the bottom of the list, revealing the skip word option. When you are finished, selecting 'Done' will replace the selected text with the corrected text. 
 
-Alternatively, when invoking Spel from the Universal Actions menu, you can hold the option key and Spel will automatically replace each word with its 'top hit'. Use this with caution though. 
+Alternatively, holding the option key when first running Spel will _automatically_ replace each word with its 'top hit'. Use this with caution though. 
 
+## Dependencies
+Spel uses aspell which is available through [homebrew](https://formulae.brew.sh/formula/aspell).
+
+# To use Spel
+Here is a short guide with screenshots:
 
 ## Select text
 <img width="752" alt="SCR-20240804-kzor" src="https://github.com/user-attachments/assets/9b3d8e57-601d-4464-bd0e-def825d02f17">
