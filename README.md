@@ -1,11 +1,11 @@
 # Spel
 <img width="128" alt="5DC88347-DD5E-4173-93CE-44E377100A1E" src="https://github.com/user-attachments/assets/ba1b6eda-51a9-44bb-b636-87de2e58b652">
 
-A nicely integrated local spell checker for Alfred.
+To use Spel, select some text and choose 'Spell Check Selection' from Alfred's Universal Actions menu. A list of replacements is shown for each misspelt word. If you want to skip a word, the up arrow key will take you to the bottom of the list, revealing the 'Skip Word' option. When finished, 'Done' will replace the selected text with the corrected text.
+Alternatively, holding the option key when first running Spel will automatically replace each word with its 'top hit'. Use this with caution though.
 
-To use Spel, select some text and choose 'Spell Check Selection' from Alfred's [Universal Actions](https://www.alfredapp.com/help/features/universal-actions/) menu. A list of replacements is shown for each misspelt word. If you want to skip a word, the up arrow key will take you to the bottom of the list, revealing the 'Skip Word' option. When finished, 'Done' will replace the selected text with the corrected text. 
-
-Alternatively, holding the option key when first running Spel will _automatically_ replace each word with its 'top hit'. Use this with caution though. 
+## Language Support (new in 1.3)
+Spel supports multiple languages. Configure the language in the workflow configuration (click the [Configure Workflow…] button in Alfred's preferences). Available languages include English (US, UK, AU, CA, and variants), German, French, Spanish, Italian, Portuguese, Russian, and many more.
 
 ## Dependencies
 Spel uses aspell which is available through [homebrew](https://formulae.brew.sh/formula/aspell).
