@@ -4,28 +4,16 @@
 To use Spel, select some text and choose 'Spell Check Selection' from Alfred's Universal Actions menu. A list of replacements is shown for each misspelt word. If you want to skip a word, the up arrow key will take you to the bottom of the list, revealing the 'Skip Word' option. When finished, 'Done' will replace the selected text with the corrected text.
 Alternatively, holding the option key when first running Spel will automatically replace each word with its 'top hit'. Use this with caution though.
 
-## Language Support (new in 1.3)
-Spel supports multiple languages. Configure the language in the workflow configuration (click the [Configure Workflow…] button in Alfred's preferences). Available languages include English (US, UK, AU, CA, and variants), German, French, Spanish, Italian, Portuguese, Russian, and many more.
+## Language Support
+Spel supports multiple languages. You can change the spell checking language in several ways:
+
+1. **Workflow Configuration** - Set a default language in the workflow configuration (click the [Configure Workflow…] button in Alfred's preferences).
+
+2. **Hotkey Modifiers** - Hold ⌘ (Command) when triggering the Universal Action to set the language before spell checking begins.
+
+3. **Mid-Check Language Change** - During spell checking, select 'Set Language' from the list to change the language and regenerate suggestions with the new dictionary. The currently selected language is shown with a ✅ checkmark.
 
 ## Dependencies
 Spel uses aspell which is available through [homebrew](https://formulae.brew.sh/formula/aspell).
-
-# To use Spel
-Here is a short guide with screenshots:
-
-## Select text
-<img width="752" alt="SCR-20240804-kzor" src="https://github.com/user-attachments/assets/9b3d8e57-601d-4464-bd0e-def825d02f17">
-
-## Choose 'Spell Check Selection' from the [Universal Actions](https://www.alfredapp.com/help/features/universal-actions/) menu
-<img width="853" alt="SCR-20240804-ksln" src="https://github.com/user-attachments/assets/85059088-bd62-4f74-9c5a-92b1a99b66a7">
-
-## Choose replacement word from list (repeating for each misspelt word)
-<img width="853" alt="SCR-20240804-ksni" src="https://github.com/user-attachments/assets/f27bab95-5086-409e-9425-c0fab58f3ce8">
-
-## Skip words by pressing up arrow and selecting the 'Skip Word' option
-<img width="853" alt="SCR-20240804-kspg" src="https://github.com/user-attachments/assets/a79d7be1-d8c9-46f3-af58-5982509f1281">
-
-## Selecting 'Done' will replace the selection with the corrected text
-<img width="853" alt="SCR-20240804-ksqk" src="https://github.com/user-attachments/assets/78ab97dd-56df-46c0-b059-1ebf14a1862a">
 
 
